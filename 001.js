@@ -108,4 +108,3 @@ console.log(hoistedVar); // Outputs: undefined (hoisted declaration, but not ini
 // console.log(hoistedLet); // Uncommenting this will throw an error (not hoisted)
 var hoistedVar = "I am hoisted";
 console.log(hoistedVar); // Output: I am hoisted
-// let

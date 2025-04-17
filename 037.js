@@ -30,6 +30,6 @@ var str5 = String(n); // conversion to string
 var str6 = n.toString(); // string conversion via method
 console.log(str5) // Outputs: "10" (string)
 
-// Create a String object from a number.
+// Create a String object from a number. 
 var str7 = new String(n); // creates a string object from number
 console.log(str6) // Outputs: "10" (string from toString())

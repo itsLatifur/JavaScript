@@ -1,1 +1,1 @@
-// function Scoping
+// function Scoping examples in JavaScript

@@ -6,15 +6,15 @@ function add(a, b){
 
 // 1. function can be stored in a variable
 var sum = add
-console.log(sum(5+10))
-console.log(typeof sum)
+console.log(sum(5, 10))
+console.log('This is a ' + typeof sum)
 
 // 2. can be stored in an object
 var obj = {
     sum: add
 }
 console.log(obj)
-console.log(obj.sum(7+7))
+console.log(obj.sum(7, 7))
 
 // 3. can be stored in an array
 var arr = []
